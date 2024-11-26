@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-2496ED?style=flat&logo=mysql&logoColor=white"> 
+  <br/>
+  <img src="https://img.shields.io/badge/docker-4479A1?style=flat&logo=docker&logoColor=white"> 
 </div>
 
 ---
