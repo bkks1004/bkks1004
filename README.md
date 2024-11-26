@@ -1,6 +1,6 @@
 ## Hi there, I'm Ohseong Kim 👋
 
-<div align=center><h1>🛠 SKILL 🛠</h1></div>
+<div><h2>🛠 SKILL 🛠</h2></div>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
